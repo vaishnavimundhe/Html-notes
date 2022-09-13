@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Document</title>
+</head>
+<body>
+   <!-- content -->
+</body>
+</html>
+
+
+***************************************
+1)The <!DOCTYPE> declaration tag is used by the web browser to understand the version of the HTML used in the document. 
+The current version is 5 i.e. HTML 5.
+
+***************************************
+2)The <html> tag is the root of an HTML page.
+**************************************
+3)The <head> tag contains page metadata.
+
+ *************************************
+ 4)The <title> tag contains the title of a page and is shown in the browser title bar.
+ **************************************
+ The </head> tag is closing of <head> tag.
+
+ ***************************************
+ 6)<body> tag is the main tag of HTML. It contains the main body of the page and is shown in the white part of the browser.
+ ***************************************
+ 7)The </body> tag is closing of <body> tag.
+ ***************************************
+ 8)The </html> tag is closing of <html> tag.
+
+ 
