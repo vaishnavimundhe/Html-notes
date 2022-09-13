@@ -1,0 +1,43 @@
+What is HTML?
+
+HTML is an initialism for "HyperText Markup Language".
+It is the language of the web.
+It is used to create websites.
+It is used to define a page layout, meaning it is a barebone page structure.
+HTML is used for making pages of the website also called webpages that we see on the internet
+It consists of a set of tags.
+This set of tags is interpreted by web browsers.
+This set of tags is written in HTML Document.
+It is case-insensitive.
+".html" or ".htm" is the extension.
+There are so many versions of HTML but HTML5 is the latest version.
+
+Why the work HyperText & Markup Language
+The word hypertext markup language comprises the words “hypertext” and “markup language”.
+The term "hypertext" refers to the linking of text with other documents and “markup language” refers to a language that uses a set of tags.
+
+So, HTML is the linking of text with other documents using some set of tags.
+
+ 
+
+NOTE: Tags are just some text enclosed in angle braces <...>. For eg. <head>. Each tag has a different meaning and importance in building an HTML page.
+
+ 
+
+A beautiful analogy to understand HTML:
+ 
+
+
+
+ 
+
+Here in the explanation for the above analogy, the car skeleton refers to HTML with the page body. 
+When that skeleton is painted it the car gets CSS and after all that car is provided with some functionalities like engine, etc (which refers to JavaScript), the car gets life and can run. Similarly, when we develop our websites we need HTML for the structure and if we want our website to look good and prettier we need CSS and if we want to add functionalities to our webpage we need JavaScript.
+
+ 
+
+History of HTML:
+In 1989, Tim Berners Lee established www and created HTML in 1991. 
+In 1999, a committee was organized that made HTML4.0 a standard.
+HTML4.0 is used by many, even today. However, the stable version of HTML is 5.0 also known as HTML5
+From 1995 to 1997, he started working on versions of HTML.
